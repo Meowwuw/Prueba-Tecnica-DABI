@@ -5,12 +5,15 @@ En este ejemplo invocaremos al Bot Framework utilizando Webhooks usando la herra
 ## Crear bot ya configurado
 ![Bot ya creado](img/Imagen1.png)
 
-## eleccionar el método "POST" HTTP de la solicitud.
+## Seleccionar el método "POST" HTTP de la solicitud.
+
 Ingresa la URL del servidor
+
 ![Crear Solicitud en Postman](img/Imagen2.png)
 
 ## Enviamos el cuerpo de la solicitud
+
 ![Seccion Body](img/Imagen3.png)
 
-*Y enviamos la solicitud
+## Y enviamos la solicitud
 
